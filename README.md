@@ -1,2 +1,4 @@
 # Recipe-Spot
-A place for recipe collaboration 
+_A place for recipe collaboration_ 
+
+This repository is a team recipe collaboration.   
